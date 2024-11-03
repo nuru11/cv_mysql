@@ -1,0 +1,2 @@
+*.avi filter=lfs diff=lfs merge=lfs -text
+cv-builder-1-main/src/applicantimagetest/1730049978527-COBRA[[:space:]]KAI[[:space:]]18[[:space:]]A.avi filter=lfs diff=lfs merge=lfs -text
